@@ -1,7 +1,7 @@
 {
    "key1" : {
       "timeResolution":"Hourly",
-      "sensoryType":"IAQ",
+      "sensoryType":"IAQ"
    },
    "data":[
       {

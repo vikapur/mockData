@@ -1,6 +1,6 @@
 {
 	"timeResolution": "Hourly",
-	"sensoryType": "IAQ"
+	"sensoryType": "IAQ",
 	"data": [
 			{
 				"entityId": "1234",

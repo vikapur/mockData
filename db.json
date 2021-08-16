@@ -58,17 +58,17 @@
             {
                "entityId":"1234",
                "timestamp":"2021-08-11T05:50:00Z",
-               "value":80
+               "value":0
             },
             {
                "entityId":"1234",
                "timestamp":"2021-08-11T05:55:00Z",
-               "value":70
+               "value":0
             },
             {
                "entityId":"1234",
                "timestamp":"2021-08-11T06:00:00Z",
-               "value":60
+               "value":0
             }
          ]
       },
